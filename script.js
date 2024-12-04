@@ -1,0 +1,1 @@
+gameCanvas = document.getElementById("gameWindow");
